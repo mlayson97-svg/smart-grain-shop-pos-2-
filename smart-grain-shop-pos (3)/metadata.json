@@ -1,0 +1,6 @@
+{
+  "name": "Smart Grain Shop POS",
+  "description": "A modern POS, Inventory, and Business Management System for a wholesale and retail grain shop in Tanzania, with dual English & Swahili support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
